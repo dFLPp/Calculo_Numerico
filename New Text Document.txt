@@ -1,3 +1,0 @@
-- Separar arquivão, pelos capitulos, em varios arquivinhos
-- Melhorar/completar o conteúdo
-- Buscar alternativa para imagens ou pegar umas menos "pessadas"
